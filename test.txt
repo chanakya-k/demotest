@@ -7,3 +7,4 @@ log content (below lines will be added while working on each branch)
 demotest - master branch
 demotest - hot fix branch from main
 amending user a
+amdnding user b
